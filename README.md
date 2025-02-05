@@ -14,8 +14,8 @@
         <ul>
             <li>🔭 I'm currently finishing my studies</li>
             <li>👨‍🎓 I'm learning Java Spring at the moment</li>
-            <li>💬 Ask me about anything you want</li>
-            <li>📫 How to reach me: samutrujillogomez@gmail.com</li>
+            <li>👨‍💻 All of my projects are available <a href="https://github.com/SAMKING25?tab=repositories">here</a></li>
+            <li>📫 Also, you may send a nice letter to samutrujillogomez@gmail.com</li>
         </ul>
     </h3>
       <br>
