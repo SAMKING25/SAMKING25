@@ -35,7 +35,12 @@
 <hr>
 <footer align="center">
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=samking25&include_all_commits=true&show_icons=true&theme=radical" height="300">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samking25&layout=compact&hide=css&theme=radical" alt="VSCode" height="300">
+        <img src="https://github-readme-stats.vercel.app/api?username=samking25&include_all_commits=true&show_icons=true&theme=radical" height="200">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samking25&layout=compact&hide=css&theme=radical" alt="VSCode" height="200">
     </p>
+    <br>
+    <h2 align="center">Visualizations</h2>
+    <div align="center">
+        <img src="https://profile-counter.glitch.me/SAMKING25/count.svg?"  />
+    </div>
 </footer>
