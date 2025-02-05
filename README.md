@@ -24,7 +24,7 @@
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=php,py,java,js,mysql,html,css,git,bootstrap,react,vscode,linux,postman,github" width="1000px" />
+        <img src="https://skillicons.dev/icons?i=php,py,java,js,mysql,html,css,bootstrap,react,postman,linux,windows,github,git" width="1000px" />
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
