@@ -1,4 +1,3 @@
-<img  align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2gwdmkzZHVjYTluYml0eHFvYWowd2YyM2x6eHFybjJsajZhMGpiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="250px" />
 <header align="left">
     <h1 align="left">Hi <𝚍𝚎𝚟𝚜/>, I'm Samuel
       <picture>
@@ -9,11 +8,12 @@
         <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
         <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif"  width="32" height="32">
       </picture>
+    <img  align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2gwdmkzZHVjYTluYml0eHFvYWowd2YyM2x6eHFybjJsajZhMGpiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="250px" />
     </h1>
     <h3 align="left">
         <ul>
             <li>🔭 I'm currently finishing my studies</li>
-            <li>👨‍🎓 I'm learning Java Spring at the moment</li>
+            <li>👨‍🎓 I'm learning Cybersecurity at the moment</li>
             <li>👨‍💻 All of my projects are available <a href="https://github.com/SAMKING25?tab=repositories">here</a></li>
             <li>📫 Send me a nice letter to samutrujillogomez@gmail.com</li>
         </ul>
@@ -24,7 +24,7 @@
 <div align="center">
     <h2 align="center">Used Technologies</h2>
     <div align="center">
-        <img src="https://skillicons.dev/icons?i=php,py,java,js,mysql,html,css,bootstrap,react,postman,linux,windows,github,git" width="1000px" />
+        <img src="https://skillicons.dev/icons?i=php,py,java,js,mysql,postgresql,html,css,bootstrap,react,postman,github,git,angular,spring" width="1000px" />
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
@@ -34,13 +34,4 @@
 </div>
 <hr>
 <footer align="center">
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=samking25&include_all_commits=true&show_icons=true&theme=radical" height="170">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samking25&layout=compact&hide=css&theme=radical" alt="VSCode" height="170">
-    </p>
-    <br>
-    <h2 align="center">Visualizations</h2>
-    <div align="center">
-        <img src="https://profile-counter.glitch.me/SAMKING25/count.svg?"  />
-    </div>
 </footer>
